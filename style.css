@@ -2,5 +2,26 @@
 
 body
 {
-	background-color: #1E90FF;
+	/*background-color: #78C7C7; */
+	background-color: #98AFC7;
+	color: #2B3856;
+	font-family: "Trebuchet MS";
+
+}
+
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	text-decoration: underline;
+	font-variant: small-caps;
+
+}
+
+h3
+{
+	font-style: italic;
 }
